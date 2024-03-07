@@ -1,19 +1,10 @@
-# Tsering Dhargyal - Profile
-## About
+# Python concepts 
 
-Hi, I'm Tsering Dhargyal! With a background in Information Technology, I'm currently pursuing a degree in Data Science (MS. Data Science). I've built a solid foundation in IT principles and practices, and I'm excited to leverage my technical expertise in the field of data science. As I embark on my journey as an entry-level data specialist, I'm eager to apply my analytical skills and IT knowledge to drive impactful insights from data.
+This repository is dedicated to my journey of learning and completing the Python certification. Here, you'll find a collection of small Python programs designed to demonstrate various concepts covered in the certification course. From basic syntax and data types to more advanced topics like object-oriented programming and file handling, these programs serve as practical examples to reinforce understanding and mastery of Python programming concepts. Whether you're a beginner looking to start your Python journey or an experienced programmer seeking to enhance your skills, this repository offers valuable insights and hands-on experience to help you succeed in Python development.
 
-Throughout my studies, I've honed my ability to work with complex datasets and have developed a keen eye for identifying patterns and trends. My experience in Information Technology has equipped me with valuable skills in data management, database systems, and software development, which I believe will be instrumental in my role as a data specialist.
+This repository serves as a platform to exhibit my proficiency, disseminate projects, and monitor my advancements in the realm of Python studies, particularly in Data Analytics and Data Science domains. Through this repository, I aim to highlight my expertise, share notable projects, and monitor my growth in Python-related studies, particularly in the fields of Data Analytics and Data Science.
 
-In my spare time, I enjoy exploring new data analysis tools and techniques, continuously seeking opportunities to expand my knowledge and skills in both IT and data science domains. Whether collaborating within a team or working independently, I am motivated by the challenge of uncovering insights
-
-
-My CV in [pdf](https://github.com/dhargyalla/python-programs/blob/main/Tsedhar_CV.pdf).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-
-## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+## Python programs
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
