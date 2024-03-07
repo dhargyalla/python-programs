@@ -8,7 +8,7 @@ Throughout my studies, I've honed my ability to work with complex datasets and h
 In my spare time, I enjoy exploring new data analysis tools and techniques, continuously seeking opportunities to expand my knowledge and skills in both IT and data science domains. Whether collaborating within a team or working independently, I am motivated by the challenge of uncovering insights
 
 
-My CV in [pdf](https://github.com).
+My CV in [pdf](https://github.com/dhargyalla/python-programs/blob/main/Tsedhar_CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
