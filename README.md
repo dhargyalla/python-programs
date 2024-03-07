@@ -5,7 +5,7 @@ This repository is dedicated to my journey of learning and completing the Python
 This repository serves as a platform to exhibit my proficiency, disseminate projects, and monitor my advancements in the realm of Python studies, particularly in Data Analytics and Data Science domains. Through this repository, I aim to highlight my expertise, share notable projects, and monitor my growth in Python-related studies, particularly in the fields of Data Analytics and Data Science.
 
 ## Python programs
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/dhargyalla/fizzbuzz.git)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
