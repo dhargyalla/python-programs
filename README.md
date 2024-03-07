@@ -5,24 +5,13 @@ This repository is dedicated to my journey of learning and completing the Python
 This repository serves as a platform to exhibit my proficiency, disseminate projects, and monitor my advancements in the realm of Python studies, particularly in Data Analytics and Data Science domains. Through this repository, I aim to highlight my expertise, share notable projects, and monitor my growth in Python-related studies, particularly in the fields of Data Analytics and Data Science.
 
 ## Python programs
-- [Portfolio Projects](https://github.com/dhargyalla/fizzbuzz.git)
-  - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
-  
-
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Fizz Bizz Game](https://github.com/dhargyalla/fizzbuzz.git)
+- [Password Generator app](https://github.com/dhargyalla/password_generator.git)  
+- [Rock Paper Scissor Game](https://github.com/dhargyalla/rock-paper-scissor)
+- [Treasure Game](https://github.com/dhargyalla/treasure-game)
+- [Love Calculator & Order pizza app](https://github.com/dhargyalla/love_calculator)
+- [Leap year Calculator app](https://github.com/dhargyalla/leap-year)
+- [Tips Calculator app](https://github.com/dhargyalla/Tip-Calculator)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
