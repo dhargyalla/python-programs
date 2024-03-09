@@ -12,4 +12,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Love Calculator & Order pizza app](https://github.com/dhargyalla/love_calculator)
 - [Leap year Calculator app](https://github.com/dhargyalla/leap-year)
 - [Tips Calculator app](https://github.com/dhargyalla/Tip-Calculator)
+- [Hangman game](https://github.com/dhargyalla/hangman_game)
 
