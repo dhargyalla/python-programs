@@ -13,4 +13,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Leap year Calculator app](https://github.com/dhargyalla/leap-year)
 - [Tips Calculator app](https://github.com/dhargyalla/Tip-Calculator)
 - [Hangman game](https://github.com/dhargyalla/hangman_game)
+- [Cipher encryption and decryption](https://github.com/dhargyalla/cypher-hash)
 
