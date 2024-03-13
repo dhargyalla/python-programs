@@ -14,4 +14,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Tips Calculator app](https://github.com/dhargyalla/Tip-Calculator)
 - [Hangman game](https://github.com/dhargyalla/hangman_game)
 - [Cipher encryption and decryption](https://github.com/dhargyalla/cypher-hash)
+- [Blind auction](https://github.com/dhargyalla/blind-auction)
 
