@@ -15,4 +15,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Hangman game](https://github.com/dhargyalla/hangman_game)
 - [Cipher encryption and decryption](https://github.com/dhargyalla/cypher-hash)
 - [Blind auction](https://github.com/dhargyalla/blind-auction)
+- [Black jack game](https://github.com/dhargyalla/blackjack-game)
 
