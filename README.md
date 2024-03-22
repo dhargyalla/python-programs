@@ -16,4 +16,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Cipher encryption and decryption](https://github.com/dhargyalla/cypher-hash)
 - [Blind auction](https://github.com/dhargyalla/blind-auction)
 - [Black jack game](https://github.com/dhargyalla/blackjack-game)
+- [Number guessing game](https://github.com/dhargyalla/number-guessing-game)
 
