@@ -17,4 +17,5 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Blind auction](https://github.com/dhargyalla/blind-auction)
 - [Black jack game](https://github.com/dhargyalla/blackjack-game)
 - [Number guessing game](https://github.com/dhargyalla/number-guessing-game)
+- [Upper lower game](https://github.com/dhargyalla/upper-lower-game)
 
