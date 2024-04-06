@@ -20,5 +20,6 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Upper lower game](https://github.com/dhargyalla/upper-lower-game)
 - [CoffeeMachine](https://github.com/dhargyalla/coffeeMachine)
 - [Quiz_game](https://github.com/dhargyalla/quiz_game/)
+- [Hirst Painting](https://github.com/dhargyalla/hirst_painting)
 
 
