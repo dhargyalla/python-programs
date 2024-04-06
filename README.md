@@ -22,5 +22,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Quiz_game](https://github.com/dhargyalla/quiz_game/)
 - [Hirst Painting](https://github.com/dhargyalla/hirst_painting)
 - [Etch a sktech](https://github.com/dhargyalla/etch-a-sketch)
+- [Turtle race](https://github.com/dhargyalla/turtle-race)
+
 
 
