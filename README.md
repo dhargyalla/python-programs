@@ -23,6 +23,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Hirst Painting](https://github.com/dhargyalla/hirst_painting)
 - [Etch a sktech](https://github.com/dhargyalla/etch-a-sketch)
 - [Turtle race](https://github.com/dhargyalla/turtle-race)
+- [Coffee Machine Project in OOPs concepts](https://github.com/dhargyalla/coffeeMachineOOP)
 
 
 
