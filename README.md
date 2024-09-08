@@ -24,7 +24,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Etch a sktech](https://github.com/dhargyalla/etch-a-sketch)
 - [Turtle race](https://github.com/dhargyalla/turtle-race)
 - [Coffee Machine Project in OOPs concepts](https://github.com/dhargyalla/coffeeMachineOOP)
-- [Snake Game Project in OOPs concepts](git@github.com:dhargyalla/snake-game-in-OOP.git)
+- [Snake Game Project in OOPs concepts](https://github.com/dhargyalla/snake-game-in-OOP)
   
 
 
