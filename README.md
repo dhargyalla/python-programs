@@ -26,6 +26,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Coffee Machine Project in OOPs concepts](https://github.com/dhargyalla/coffeeMachineOOP)
 - [Snake Game Project in OOPs concepts](https://github.com/dhargyalla/snake-game-in-OOP)
 - [Pong Game](https://github.com/dhargyalla/pong-game)
+- [Turtle crossing](https://github.com/dhargyalla/turtle-crossing-game)
   
 
 
