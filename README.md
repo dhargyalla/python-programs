@@ -29,6 +29,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Turtle crossing](https://github.com/dhargyalla/turtle-crossing-game)
 - [Mail merge project](https://github.com/dhargyalla/Mail-merge-project)
 - [US State game](https://github.com/dhargyalla/US-state-game)
+- [NATO-alphabet](https://github.com/dhargyalla/NATO-Alphabet)
   
 
 
