@@ -34,6 +34,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Mile to Km converter](https://github.com/dhargyalla/Mile-to-km-converter)
 - [Password Manager Application using tkinter](https://github.com/dhargyalla/Password-manager)
 - [Flash card application](https://github.com/dhargyalla/flash-card-app)
+- [Automatic birthday wishes program](https://github.com/dhargyalla/birthday-wisher)
 
 
 
