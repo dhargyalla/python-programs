@@ -35,6 +35,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Password Manager Application using tkinter](https://github.com/dhargyalla/Password-manager)
 - [Flash card application](https://github.com/dhargyalla/flash-card-app)
 - [Automatic birthday wishes program](https://github.com/dhargyalla/birthday-wisher)
+- [Kayan quote program using API concepts](https://github.com/dhargyalla/kayan_quote)
 
 
 
