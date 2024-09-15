@@ -37,6 +37,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Automatic birthday wishes program](https://github.com/dhargyalla/birthday-wisher)
 - [Kayan quote program using API concepts](https://github.com/dhargyalla/kayan_quote)
 - [ISS notifier project use API and email module](https://github.com/dhargyalla/ISS-notifier-project)
+- [Quiz application using API call](https://github.com/dhargyalla/quizzler-game)
 
 
 
