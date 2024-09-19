@@ -41,6 +41,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Rain alert sms notification using API call](https://github.com/dhargyalla/Rain-alert-sms)
 - [Stock alert application using API call](https://github.com/dhargyalla/stock-alert-application)
 - [Workout tracker using API call](https://github.com/dhargyalla/workout-tracker)
+- [Amazon live website scrape using BeautifulSoup](https://github.com/dhargyalla/Amazon-website-live-scrape)
 
 
 
