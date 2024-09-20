@@ -42,6 +42,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Stock alert application using API call](https://github.com/dhargyalla/stock-alert-application)
 - [Workout tracker using API call](https://github.com/dhargyalla/workout-tracker)
 - [Amazon live website scrape using BeautifulSoup](https://github.com/dhargyalla/Amazon-website-live-scrape)
+- [Cheapest flight rate alert notification using API](https://github.com/dhargyalla/Alert-cheapest-Flight-)
 
 
 
