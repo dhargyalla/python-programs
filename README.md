@@ -44,6 +44,7 @@ This repository serves as a platform to exhibit my proficiency, disseminate proj
 - [Amazon live website scrape using BeautifulSoup](https://github.com/dhargyalla/Amazon-website-live-scrape)
 - [Cheapest flight rate alert notification using API](https://github.com/dhargyalla/Alert-cheapest-Flight-)
 - [Flight deal notification using API](https://github.com/dhargyalla/flight-deal-notification)
+- [Image watermark application using Tkinter and Pillow](https://github.com/dhargyalla/image-watermark-application)
 
 
 
